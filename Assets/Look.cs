@@ -10,7 +10,7 @@ public class Look : MonoBehaviour
 
     void Start()
     {
-        
+        Cursor.visible = false;
     }
 
 
